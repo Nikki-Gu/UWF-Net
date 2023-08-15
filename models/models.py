@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from classify import ResNet_CSRA
+from models.classify import ResNet_CSRA
 import torchvision
 
 class ResidualBlock(nn.Module):
