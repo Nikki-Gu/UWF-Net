@@ -1,13 +1,12 @@
 # UWF-Net
 This is the official code of the paper:
 
-**Quality-Aware Ultra-wide-field Fundus Dataset and Unsupervised  Enhancement Method**
+**Automatic Ultra-Wide-Field Fundus Image Enhancement for Improved Clinical Diagnosis**
 
 ## Train
 ### Dataset preparation
-1. Download FDUWI-1 subset [here](https://drive.google.com/drive/folders/1r-BO3xh2sveZeTIENEjBBi_VRWaDv9Uz?usp=drive_link)
-2. Download FDUWI-2 subset [here]( https://pan.baidu.com/s/16zcfU3H7qFxA3XPGv7GDaQ) with code mcx9
-3. Organize dataset within the following manner:
+1. The dataset including FDUWI-1 and FDUWI-2 subset can be accessed by sending a request to 22210240015@m.fudan.edu.cn with detailed reasons for usage. 
+2. Organize dataset within the following manner:
    ```
    |--datadir
        |--train
