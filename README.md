@@ -5,7 +5,7 @@ This is the official code of the paper:
 
 ## Train
 ### Dataset preparation
-1. The dataset including FDUWI-1, FDUWI-2 subset can be accessed by sending a request to lindacn90@gmail.com with detailed reasons for usage. 
+1. The dataset including FDUWI-1, FDUWI-2 subset can be accessed by sending a request to fduwfnet@gmail.com with detailed reasons for usage. 
 2. Organize dataset within the following manner:
    ```
    |--datadir
